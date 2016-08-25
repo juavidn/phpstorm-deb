@@ -1,4 +1,4 @@
-webstorm-deb
+phpstorm-deb
 =============
 
 Build scripts to easily create a `.deb` package for PhpStorm, based on [langemeijer/phpstorm-deb](https://github.com/langemeijer/phpstorm-deb).
@@ -7,7 +7,7 @@ Build scripts to easily create a `.deb` package for PhpStorm, based on [langemei
 Dependencies
 ------------
 
-You will need the `devscripts` package installed in order to build the WebStorm `.deb` file:
+You will need the `devscripts` package installed in order to build the PhpStorm `.deb` file:
 
 ```sh
 apt-get install devscripts
