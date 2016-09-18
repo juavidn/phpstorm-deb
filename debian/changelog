@@ -1,3 +1,9 @@
+phpstorm (2016.2.1) stable; urgency=medium
+
+  * New version
+
+ -- David Noreña <juavidn@gmail.com>  Sat, 17 Sep 2016 20:42:36 -0500
+
 phpstorm (2016.2) stable; urgency=medium
 
   * New upstream version
