@@ -26,7 +26,7 @@ install: build
 	mv $(CURDIR)/debian/phpstorm/opt/$(BUILD) $(CURDIR)/debian/phpstorm/opt/PhpStorm
 
 	# Create desktop item for menu
-	cp phpstorm.desktop $(CURDIR)/debian/phpstorm/usr/share/applications
+	cp jetbrains-phpstorm.desktop $(CURDIR)/debian/phpstorm/usr/share/applications
 
 	# Create symlink in /usr/bin
 	dh_link opt/PhpStorm/bin/phpstorm.sh usr/bin/phpstorm
